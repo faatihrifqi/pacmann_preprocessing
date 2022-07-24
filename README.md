@@ -1,8 +1,11 @@
 # Repository for Simple Pipeline - Wrangling Class
 
-## Preprocess autos data
+## Install all the dependencies
+```
+pip install -r requirements.txt
+```
 
-To run the entire script, use command below
+## Run the entire scripts
 ```
 python preprocessing.py
 ```
