@@ -1,9 +1,9 @@
 # Repository for Simple Pipeline - Wrangling Class
 
-## Titanic Survival Prediction
+## Preprocess autos data
 
-## Objective
-
-## Solution
-
-## Process 1
+To run the entire script, use command below
+```
+python preprocessing.py
+```
+Everything it does, basically just read csv file and run feature_engineering function from data/feature_engineering.py.
