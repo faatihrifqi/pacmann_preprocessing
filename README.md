@@ -6,4 +6,4 @@ To run the entire script, use command below
 ```
 python preprocessing.py
 ```
-Everything it does, basically just read csv file and run feature_engineering function from data/feature_engineering.py.
+Everything it does, basically just read csv file and run feature_engineering function from helper/feature_engineering.py.
